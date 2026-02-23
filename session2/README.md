@@ -6,4 +6,6 @@
 
 `task3`: Debugging a mysterious vulnerability in user login code
 
+`task4`: Debugging via the VS Code UI
+
 `advanced`: Ideas for more advanced things you can try.
