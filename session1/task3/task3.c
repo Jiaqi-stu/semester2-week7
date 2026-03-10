@@ -50,7 +50,7 @@ int main(int argc, char* argv[])
     int num_values = 0;
 
     data = get_values(argc, argv);
-    num_values = argc - 1;
+    //num_values = argc - 1;
 
     LOG_FMT("main(): data at %p\n", data);
     LOG_FMT("main(): num_values=%d\n", num_values);

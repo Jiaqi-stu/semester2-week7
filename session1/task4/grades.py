@@ -46,7 +46,7 @@ def grade(mark):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 1:
+    if len(sys.argv) != 2:
         sys.exit("Usage: python grades.py <csv-filename>")
 
     marks = read_marks(sys.argv[1])
